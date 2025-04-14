@@ -1,0 +1,6 @@
+ID,name,price,stock,category_ID,country_code
+P1,Смартфон X,599.99,100,C1,RU
+P2,Хлеб ржаной,1.20,50,C2,DE
+P3,Холодильник,899.50,15,C3,CN
+P4,Футболка,19.99,200,C4,US
+P5,JavaScript для начинающих,29.99,75,C5,GB

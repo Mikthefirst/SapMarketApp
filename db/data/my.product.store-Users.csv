@@ -1,0 +1,5 @@
+ID,name,email,role,createdAt,createdBy,modifiedAt,modifiedBy
+
+U1,Иван Петров,ivan@mail.com,USER,2023-01-15,auto,2023-01-15,auto
+U2,Админ Системы,admin@store.com,ADMIN,2023-01-10,auto,2023-01-10,auto
+U3,Менеджер Мария,manager@store.com,MANAGER,2023-02-01,auto,2023-02-01,auto

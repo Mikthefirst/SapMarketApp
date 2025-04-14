@@ -1,0 +1,5 @@
+ID,order_ID,product_ID,quantity
+
+OI1,ORD1,P1,1
+OI2,ORD1,P4,2
+OI3,ORD2,P5,1

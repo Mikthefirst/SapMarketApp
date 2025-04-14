@@ -1,0 +1,4 @@
+ID,user_ID,status,total,createdAt,createdBy,modifiedAt,modifiedBy
+
+ORD1,U1,CONFIRMED,619.98,2023-05-10,U1,2023-05-10,U1
+ORD2,U3,NEW,29.99,2023-05-15,U3,2023-05-15,U3
