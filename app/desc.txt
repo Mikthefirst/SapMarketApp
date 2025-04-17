@@ -1,0 +1,4 @@
+/apps
+  /orders-app       # List Report + Object Page для заказов
+  /products-app     # Analytical List Page для товаров
+  /admin-app        # Worklist для пользователей

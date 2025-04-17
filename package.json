@@ -15,11 +15,15 @@
     "@cap-js/cds-types": "^0.10.0"
   },
   "scripts": {
-    "start": "cds-serve"
+    "start": "cds-serve",
+    "watch-market_module": "cds watch --open market_module/webapp/index.html?sap-ui-xx-viewCache=false"
   },
   "cds": {
     "sql": {
       "native_hana_associations": false
     }
-  }
+  },
+  "sapux": [
+    "app/market_module"
+  ]
 }
